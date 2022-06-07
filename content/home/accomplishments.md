@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Honors'
 subtitle:
 
 # Date format
@@ -22,7 +22,15 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 item:
+  - date_start: '2022-06-20'
+    title: Outstanding PhD Graduate
+    organization: East China University of Science and Technology
+  - date_start: '2022-03-01'
+    date_end: '2022-05-20'
+    title: Global AI Innovation Contest - Anomaly detection of Medical report (rank/:0.3%)
+    organization: 中国人工智能学会
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
@@ -50,4 +58,6 @@ item:
 
 design:
   columns: '2'
+
+active: true
 ---
