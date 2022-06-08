@@ -41,8 +41,8 @@ content:
   office_hours:
     # - 'Monday 10:00 to 13:00'
     # - 'Wednesday 09:00 to 10:00'
-    - 'Monday to Sunday'
-    - '0:00 to 23:59'
+    - 'Monday to Sunday 0:00 to 23:59'
+  
   # appointment_url: 'https://calendly.com'
   # contact_links:
   #   - icon: twitter

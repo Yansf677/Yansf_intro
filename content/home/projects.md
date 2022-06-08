@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Anomaly Detection
       tag: anomaly detection
+    - name: Bioinformatics
+      tag: bioinformatics
     - name: Root Cause Analysis
       tag: root cause analysis
 
