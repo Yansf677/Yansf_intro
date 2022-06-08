@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
- [Complete list of publications](./publication/).
+ [Publication fiter](./publication/).
 {{% /callout %}}

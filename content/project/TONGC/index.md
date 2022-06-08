@@ -1,8 +1,9 @@
 ---
 title: Prediction of key metrics under time-series data
-summary: The model was constructed based on graph attention network, intelligent optimization, SVM. Develop tools for online data processing, model computing and updating. Related work has been published in the Top journal IEEE TCYB with two CN patents.
+summary: The model was constructed based on graph attention network, intelligent optimization, SVM. Develop tools for online data processing, model computing and updating. 
+
 tags:
-  - anomaly detection
+  - regression
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -30,3 +31,4 @@ url_video: ''
 # slides: example
 ---
 
+The model was constructed based on graph attention network, intelligent optimization, SVM. Develop tools for online data processing, model computing and updating. 

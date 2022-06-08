@@ -36,7 +36,7 @@ abstract: Quality-relevant fault detection aims to reveal whether quality variab
 # Summary. An optional shortened abstract.
 summary: Nonlinear quality-relevant process monitoring based on maximizing correlation neural network.
 
-tags: ['anomaly detection']
+tags: ['anomaly detection', 'regression']
 
 # Display this page in the Featured widget?
 featured: false

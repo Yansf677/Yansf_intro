@@ -37,7 +37,7 @@ abstract: Quality-related modeling and monitoring which aim at the key performan
 # Summary. An optional shortened abstract.
 summary: Neural representations for quality-related kernel learning and fault detection.
 
-tags: ['anomaly detection']
+tags: ['anomaly detection', 'regression']
 
 # Display this page in the Featured widget?
 featured: false

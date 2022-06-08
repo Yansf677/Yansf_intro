@@ -39,7 +39,7 @@ abstract: Dynamics and nonlinearity may exist in the time and batch directions f
 # Summary. An optional shortened abstract.
 summary: Data-Driven Two-Dimensional Deep Correlated Representation Learning for Nonlinear Batch Process Monitoring.
 
-tags: ['anomaly detection']
+tags: ['regression']
 
 # Display this page in the Featured widget?
 featured: false

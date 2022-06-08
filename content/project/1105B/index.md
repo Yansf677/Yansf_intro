@@ -1,6 +1,7 @@
 ---
 title: Data-driven industrial monitoring system
-summary: Research on machine learning algorithms for industrial monitoring system, such as anomaly detection and diagnosis, soft sensor. Related works involve 11 SCI papers.
+summary: Research on machine learning algorithms for industrial monitoring system, such as anomaly detection and diagnosis, soft sensor.
+
 tags:
   - anomaly detection
 date: '2017-09-27T00:00:00Z'
@@ -30,3 +31,4 @@ url_video: ''
 # slides: example
 ---
 
+Research on machine learning algorithms for industrial monitoring system, such as anomaly detection and diagnosis, soft sensor.

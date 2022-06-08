@@ -31,8 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * search engine
+
         * query understanding
 
   - title: Research Intern
@@ -46,7 +45,7 @@ experience:
         Responsibilities include:
         
         * research on root cause analysis for cross metrics
-        * query understanding
+
   
   - title: Algorithm Engineer Intern
     company: Alibaba Cloud

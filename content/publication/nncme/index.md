@@ -42,7 +42,7 @@ abstract: Non-Markovian models of stochastic biochemical kinetics often incorpor
 # Summary. An optional shortened abstract.
 summary: Neural network aided approximation and parameter inference of non-Markovian models of gene expression.
 
-tags: ['bioinformatics']
+tags: ['bioinformatics', 'regression']
 
 # Display this page in the Featured widget?
 featured: false
