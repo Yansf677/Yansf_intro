@@ -89,9 +89,8 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my resume ({{< staticref "uploads/demo_resume.pdf" "newtab" >}}zh{{< /staticref >}}, {{< staticref "uploads/demo_resume.pdf" "newtab" >}}en{{< /staticref >}}).
 ---
 
-*Shifu Yan is currently an algorithm engineer at Meituan and mainly focus on query understanding for search engine in Dianping APP.* 
+*Shifu Yan is currently an algorithm engineer at Meituan Inc. and mainly focus on Query Understanding.* 
 
 My research interests are machine learning and applied artificial intelligence, such as natural language processing, recommendation systems, root cause analysis etc. During PhD, we aim at complex modeling and diagnosis, including industrial monitoring system, anomaly detection and diagnosis, modeling of gene expression. 
-
 
 
