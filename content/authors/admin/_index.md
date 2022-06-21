@@ -85,6 +85,8 @@ highlight_name: true
 # Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+# {{< icon name="download" pack="fas" >}} Download my resume ({{< staticref "uploads/demo_resume.pdf" "newtab" >}}zh{{< /staticref >}}, {{< staticref "uploads/demo_resume.pdf" "newtab" >}}en{{< /staticref >}}).
 ---
 
 *Shifu Yan is currently an algorithm engineer at Meituan and mainly focus on query understanding for search engine in Dianping APP.* 
@@ -92,4 +94,4 @@ highlight_name: true
 My research interests are machine learning and applied artificial intelligence, such as natural language processing, recommendation systems, root cause analysis etc. During PhD, we aim at complex modeling and diagnosis, including industrial monitoring system, anomaly detection and diagnosis, modeling of gene expression. 
 
 
-{{< icon name="download" pack="fas" >}} Download my resume ({{< staticref "uploads/demo_resume.pdf" "newtab" >}}zh{{< /staticref >}}, {{< staticref "uploads/demo_resume.pdf" "newtab" >}}en{{< /staticref >}}).
+
